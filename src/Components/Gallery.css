@@ -1,0 +1,9 @@
+.gal {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.video {
+  justify-content: center;
+  margin-left: 500px;
+}

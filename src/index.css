@@ -1,13 +1,27 @@
+/* .body-text {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+  background-color: lightblue;
+  flex-direction: column;
+  text-decoration: solid;
+  justify-content: space-evenly;
+  color: gold;
+}
+.info {
+  display: flex;
+  justify-content: center;
+} */
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: cornflowerblue;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* .body-text {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+ 
+  flex-direction: column;
+  text-decoration: solid;
+  justify-content: space-evenly;
+  color: gold;
+} */
